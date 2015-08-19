@@ -1,3 +1,4 @@
+// Segment tree - Recursive
 #include <bits/stdc++.h>
 #define pp pair<int, int>
 #define mp make_pair
